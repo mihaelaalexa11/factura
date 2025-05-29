@@ -1,0 +1,3 @@
+produs_cumparat, cantitate
+lapte, 2
+unt, 3

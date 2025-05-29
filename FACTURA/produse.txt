@@ -1,0 +1,4 @@
+nume_produs, pret
+paine, 4
+lapte, 5
+unt, 8
